@@ -1,10 +1,10 @@
-# PDF Poisoning Tool
+# PDF Obfuscation Tool
 
-A tool for applying various obfuscation techniques to PDF documents to protect content from unauthorized extraction, copying, or AI/LLM processing.
+A research tool for studying various obfuscation techniques for PDF documents.
 
 ## Overview
 
-This project provides a set of PDF obfuscation techniques designed to make document text more difficult to extract or process by automated tools while maintaining human readability. The tool can be used to protect sensitive documents, academic assignments, or any content you want to keep from being easily processed by AI models or text extraction tools.
+This project provides a set of PDF obfuscation techniques designed for research purposes only. It explores methods to make document text more difficult to extract or process by automated tools while maintaining human readability. The tool is intended for academic research into document security, information hiding, and AI/LLM processing limitations.
 
 ## Features
 
@@ -108,4 +108,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Disclaimer
 
-This tool is intended for legitimate use cases such as protecting intellectual property or preventing unauthorized copying. Please use responsibly and in accordance with applicable laws and regulations.
+**IMPORTANT**: This tool is meant ONLY for research purposes. It is designed to study document security techniques and the limitations of automated text extraction systems. Any use of this tool for evading plagiarism detection, circumventing copyright protection, or any other potentially unethical applications is strongly discouraged and may violate applicable laws. 
+
+The authors provide this code solely for educational and research purposes to advance understanding in the field of document security. Users are responsible for ensuring any use complies with relevant institutional policies, terms of service agreements, and legal requirements.
+
+## Research Applications
+
+This tool may be valuable for researchers studying:
+- Document security and information hiding techniques
+- Limitations of current OCR and text extraction technologies
+- Adversarial techniques against language models
+- PDF specification and rendering behavior across different readers
